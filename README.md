@@ -1,2 +1,4 @@
 # Java
-Personal java projects
+
+Personal java projects. 
+Includes source codes. 
